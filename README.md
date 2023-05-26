@@ -67,5 +67,3 @@ Figures for this project can be found in the `figures` directory of this reposit
 [3] M. Pietro, “Time Series Analysis for Machine Learning,” Towards Data Science. 2020. [Online]. Available: https://towardsdatascience.com. [Accessed Oct. 17, 2022].
 
 [4] M. Pietro, “Time Series Forecasting: ARIMA vs LSTM vs PROPHET,” Medium. 2020. [Online]. Available: https://medium.com. [Accessed Oct. 17, 2022].
-
-Files documenting the previous 2 milestones of this project can be found in the `milestones` directory of this repository in `M1Hypothesis.pdf` ([src](milestones/MI1Hypothesis.pdf)) and `MI2EstablishDataAndAnalysisPlan.pdf` ([src](milestones/MI2EstablishDataAndAnalysisPlan.pdf)).
