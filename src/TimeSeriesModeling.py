@@ -4,6 +4,8 @@
 Created on Sun Oct 16 17:34:55 2022
 
 @author: johnhope
+
+this is my change
 """
 
 # Import packages
@@ -247,7 +249,7 @@ ax1 = fig.add_subplot()
 ax1.fill_between(x=total.index, y1=(total['conf_int_low']/1000000000), 
                  y2=(total['conf_int_up']/1000000000), color='slateblue', alpha=0.3)
 ax1.set(xlabel=None, ylabel = 'Page Visits (in billions)', title = 'Future Forecast')
-ax1.legend(['Observed', 'Forecast'], loc='upper left')
+ax1.legend(['Observed', 'Forecasa'], loc='upper left')
 plt.show()     
 
 
